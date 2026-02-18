@@ -1,0 +1,2 @@
+The programs evaluate the same in both languages because
+they both follow the same rules in the order of precedence table.
